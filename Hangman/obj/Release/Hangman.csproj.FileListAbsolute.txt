@@ -1,0 +1,13 @@
+G:\School\Computing\Projects\Hangman\Hangman\Bin\Release\ApplicationIcon.png
+G:\School\Computing\Projects\Hangman\Hangman\Bin\Release\Background.png
+G:\School\Computing\Projects\Hangman\Hangman\Bin\Release\Hangman.dll
+G:\School\Computing\Projects\Hangman\Hangman\Bin\Release\Hangman.pdb
+G:\School\Computing\Projects\Hangman\Hangman\Bin\Release\AppManifest.xaml
+G:\School\Computing\Projects\Hangman\Hangman\Bin\Release\Hangman.xap
+G:\School\Computing\Projects\Hangman\Hangman\obj\Release\Hangman.csprojResolveAssemblyReference.cache
+G:\School\Computing\Projects\Hangman\Hangman\obj\Release\App.g.cs
+G:\School\Computing\Projects\Hangman\Hangman\obj\Release\MainPage.g.cs
+G:\School\Computing\Projects\Hangman\Hangman\obj\Release\Hangman.g.resources
+G:\School\Computing\Projects\Hangman\Hangman\obj\Release\Hangman.dll
+G:\School\Computing\Projects\Hangman\Hangman\obj\Release\Hangman.pdb
+G:\School\Computing\Projects\Hangman\Hangman\obj\Release\XapCacheFile.xml
